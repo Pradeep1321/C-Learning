@@ -1,0 +1,6 @@
+C:\Data\IntroductiontoCsharp\IntroductiontoCsharp\bin\Debug\IntroductiontoCsharp.exe.config
+C:\Data\IntroductiontoCsharp\IntroductiontoCsharp\bin\Debug\IntroductiontoCsharp.exe
+C:\Data\IntroductiontoCsharp\IntroductiontoCsharp\bin\Debug\IntroductiontoCsharp.pdb
+C:\Data\IntroductiontoCsharp\IntroductiontoCsharp\obj\Debug\IntroductiontoCsharp.exe
+C:\Data\IntroductiontoCsharp\IntroductiontoCsharp\obj\Debug\IntroductiontoCsharp.pdb
+C:\Data\IntroductiontoCsharp\IntroductiontoCsharp\obj\Debug\IntroductiontoCsharp.csprojResolveAssemblyReference.cache
