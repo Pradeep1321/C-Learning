@@ -45,6 +45,11 @@
     <Compile Include="Chapter10-2-properties.cs" />
     <Compile Include="Chapter10-3.cs" />
     <Compile Include="Chapter10.cs" />
+    <Compile Include="Chapter11-1.cs" />
+    <Compile Include="Chapter11-2.cs" />
+    <Compile Include="Chapter11-3.cs" />
+    <Compile Include="Chapter11-4.cs" />
+    <Compile Include="Chapter11-5.cs" />
     <Compile Include="Chapter11.cs" />
     <Compile Include="Chapter1to7.cs" />
     <Compile Include="Chapter8-PRtoMethods.cs" />
