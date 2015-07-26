@@ -53,7 +53,7 @@ class Derived5 : Derived4
 
 class OverrideDemo
 {
-    static void Main()
+    static void Main14()
     {
         Base baseOb = new Base();
         Derived1 dOb1 = new Derived1();
