@@ -50,6 +50,9 @@
     <Compile Include="Chapter11-3.cs" />
     <Compile Include="Chapter11-4.cs" />
     <Compile Include="Chapter11-5.cs" />
+    <Compile Include="Chapter11-6-Abstract.cs" />
+    <Compile Include="Chapter11-7-Sealed.cs" />
+    <Compile Include="Chapter11-8-Object.cs" />
     <Compile Include="Chapter11.cs" />
     <Compile Include="Chapter1to7.cs" />
     <Compile Include="Chapter8-PRtoMethods.cs" />
